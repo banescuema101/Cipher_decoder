@@ -1,9 +1,12 @@
-## -------> Purposes and behavior:
+## --> Purposes and behavior: <--
 
 # I write an Python script that will help you break the cipher and decode the original text. The script does the following:
   -> read the ciphertext from a file specified as a command line argument
+  
   -> use a dictionary to map each encoded character back to it's original value
+  
   -> manually populate this dictionary as you progress in your attempt and reveal new characters
+  
   -> whenever you run the script, it prints the text to the screen, with a few minor changes:
       any character that exists as a key in the dictionary is replaced with the found correspondent.
       any replaced character is highlighted in bold red.

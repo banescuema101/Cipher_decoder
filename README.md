@@ -5,7 +5,7 @@
   
   -> use a dictionary to map each encoded character back to it's original value
   
-  -> manually populate this dictionary as you progress in your attempt and reveal new characters
+  -> manually populate this dictionary as I progress in my attempt and reveal new characters
   
   -> whenever you run the script, it prints the text to the screen, with a few minor changes:
       any character that exists as a key in the dictionary is replaced with the found correspondent.
